@@ -26,10 +26,9 @@ Eu sou apaixonada por encontrar histórias escondidas nos números. Atualmente u
 ---
 
 ### 📈 Minhas Estatísticas
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DriannyMamedio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DriannyMamedio&layout=compact&theme=dracula"/>
-</div>
+[Estatísticas Gerais](https://github-readme-stats.vercel.app/api?username=DriannyMamedio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DriannyMamedio&layout=compact&theme=dracula)
 
 ---
 
