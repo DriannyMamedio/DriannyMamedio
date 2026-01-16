@@ -2,7 +2,7 @@
 
 ### 🎓 Estudante de Estatística na UFU | Futura Analista de Dados 📊
 
-Sou apaixonada por encontrar histórias escondidas nos números. Atualmente unindo meu background em Estatística com ferramentas modernas de Data Science para resolver problemas reais.
+Eu sou apaixonada por encontrar histórias escondidas nos números. Atualmente unindo meu background em Estatística com ferramentas modernas de Data Science para resolver problemas reais.
 
 - 🔭 **Foco atual:** Desenvolvimento em Análise de Dados e Automação.
 - 🐍 **Linguagem favorita:** Python (Pandas, Matplotlib), R & SQL.
