@@ -1,6 +1,6 @@
 # Olá, sou a Drianny! 🦋
 
-### 🎓 Estudante de Estatística na UFU | Futura Analista de Dados 📊
+### 🎓 Estudante de Ciência de Dados e Estatística na UFU | Futura Analista de Dados 📊
 
 Eu sou apaixonada por encontrar histórias escondidas nos números. Atualmente unindo meu background em Estatística com ferramentas modernas de Data Science para resolver problemas reais.
 
