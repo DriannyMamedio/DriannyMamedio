@@ -1,45 +1,39 @@
 # Olá, sou a Drianny! 🦋
 
-### 🎓 Estudante de Ciência de Dados e Estatística na UFU | Futura Analista de Dados 📊
+### Estatística (UFU) | Analista de Dados | Inteligência de Mercado
 
-Eu sou apaixonada por encontrar histórias escondidas nos números. Atualmente unindo meu background em Estatística com ferramentas modernas de Data Science para resolver problemas reais.
+Estatística apaixonada por transformar dados em evidências para a tomada de decisão. Tenho experiência prática em Inteligência de Mercado, focando na automação de processos, análise de indicadores e desenvolvimento de modelos preditivos. Neste perfil incluo alguns projetos pessoais e acadêmicos que tenho desenvolvido.
 
-- 🔭 **Foco atual:** Desenvolvimento em Análise de Dados e Automação.
-- 🐍 **Linguagem favorita:** Python (Pandas, Matplotlib), R & SQL.
-- 📚 **Estudando:** Modelagem Estatística e Visualização de Dados.
-- ⚡ **Sobre mim:** Atualmente tenho 23 anos, adoro gatos, histórias de terror e claro matemática.
+
 
 ---
+### 🛠️ Tecnologias e Ferramentas
 
-### Minhas Ferramentas 🤖
-
-<div style="display: inline_block">
-  <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Matplotlib" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
-  <img align="center" alt="SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-  <img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<div align="left">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" height="30">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="30">
 </div>
 
 ---
 
-### 📈 Estatísticas
+### 🔬 Foco e Especialidade
 
-<div style="display: inline_block">
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=DriannyMamedio&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
-  />
-</div>
+* **Previsão**: Modelagem preditiva utilizando ARIMA, SARIMA, STL GAM.
+* **Inferência Estatística**: Aplicação de testes de hipóteses e diagnósticos de resíduos.
+* **Inteligência de Mercado**: Automação de processos manuais e suporte ao desenvolvimento de BI.
 
 ---
 
 ### 📫 Onde me encontrar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/drianny-mamédio-2a5335270)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](driannyd@gmail.com)
+<div align="left">
+  <a href="https://www.linkedin.com/in/drianny-mam%C3%A9dio-2a5335270" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25">
+  </a>
+  <a href="mailto:driannyd@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25">
+  </a>
+</div>
